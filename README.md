@@ -62,6 +62,7 @@ The educational objective is to leverage skills in deep learning (regression), t
 
 ## 📁 Project Structure
 
+```plaintext
 GareCast/
 │
 ├── .github/                  # GitHub workflows (CI/CD pipelines)
