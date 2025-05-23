@@ -89,6 +89,7 @@ GareCast/
 ├── README.md                 # Project overview and documentation
 ├── roadmap.md                # Development roadmap and future plans
 └── run_test.ps1              # PowerShell script to run tests locally
+```
 
 ---
 

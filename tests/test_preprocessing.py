@@ -6,7 +6,7 @@ Unit tests for the data preprocessing functions of the GareCast project.
 
 import pandas as pd
 import pytest
-from src.core.preprocessing import redistribute_annual_to_weekly
+from core.preprocessing import redistribute_annual_to_weekly # type: ignore
 
 def test_redistribute_annual_to_weekly():
     """
